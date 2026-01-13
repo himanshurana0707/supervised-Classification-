@@ -1,0 +1,13 @@
+This TXT file includes:
+
+ .  All Python code
+
+ .  All text/markdown explanations
+
+ .  Clean, readable plain-text format
+
+ .  All markdown explanations
+
+ . All Python code cells (clearly marked)
+
+ . Proper spacing for easy reading or submission
